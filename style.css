@@ -1,0 +1,5 @@
+body { margin: 0; font-family: Arial, sans-serif; background: #f4f4f4; color: #222; }
+    main { max-width: 1000px; margin: 40px auto; padding: 24px; background: #fff; border: 1px solid #ccc; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background: #e9ecef; }
